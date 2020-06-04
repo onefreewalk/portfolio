@@ -5,7 +5,8 @@ Please view the live site here https://doneddy.dev
 
 # Portfolio Site for Don Eddy ( doneddy.dev)
 
-This site is built with vue.js, and built with Gridsome and of course CSS & HMTL. All images are copyright the author and so is 
+This site is coded in Javascript, with vue.js, and built with Gridsome and of course CSS & HMTL. Design via Photoshop.
+All art is copyright Don Eddy Jr.
 
 ## Deployment
 
