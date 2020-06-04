@@ -1,9 +1,4 @@
-This repo contains the code for my portfolio website written in HTML CSS and Vue.js by means of Gridsome.
-
-Please view the live site here https://doneddy.dev
-
-
-# Portfolio Site for Don Eddy ( doneddy.dev)
+# This repo contains the code for my Portfolio Site for Me: Don Eddy ( doneddy.dev)
 
 This site is coded in Javascript, with vue.js, and built with Gridsome and of course CSS & HMTL. Design via Photoshop.
 All art is copyright Don Eddy Jr.
@@ -22,3 +17,6 @@ All art is copyright Don Eddy Jr.
 
 ** Copyright © Don Eddy Jr 2020 ** 
 
+## Please Visit the site here
+
+# https://doneddy.dev
