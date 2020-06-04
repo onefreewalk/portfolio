@@ -1,4 +1,4 @@
-#My Portfolio Site: Don Eddy ( doneddy.dev)
+# My Portfolio Site: Don Eddy ( doneddy.dev)
 
 
 This repo contains the code for my Portfolio Site.This site is coded in Javascript, with vue.js, and built with Gridsome and of course CSS & HMTL. Design via Photoshop.
