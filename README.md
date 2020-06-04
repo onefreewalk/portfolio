@@ -13,8 +13,8 @@ This site is built with vue.js, and built with Gridsome and of course CSS & HMTL
 
 ## Built With
 
-* [Gridsome](https://gridsome.org/) - The web framework used
-* [Vue.js](https://vuejs.org/) - Dependency Management
+* [Gridsome](https://gridsome.org/) - A Jamstack framework for Vue.js
+* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 
 
 ## Authors
