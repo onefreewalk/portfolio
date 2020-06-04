@@ -19,5 +19,5 @@ This site is built with vue.js, and built with Gridsome and of course CSS & HMTL
 
 ## Authors
 
-* ** Copyright © Don Eddy Jr 2020 ** 
+** Copyright © Don Eddy Jr 2020 ** 
 
