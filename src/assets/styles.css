@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --theme-blue: #28a4dc; /* var(--theme-blue); */
+  --defaultPrimaryFont: white; /* var(--defaultPrimaryFont); */
+  --defaultPrimaryOpposite: black; /* var(--defaultPrimaryOpposite); */
+  --title-columnRight: 9; /* var(--title-columnRight); */
+  --vertical-space: 5rem;
+}
+
+html {
+  /* Fluid Typography https://css-tricks.com/snippets/css/fluid-typography/ */
+  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  /* Make the page smooth scroll to anchor links */
+  scroll-behavior: smooth;
+}
+
+/* Better box sizing https://css-tricks.com/box-sizing/ */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  background-color: black;
+  color: var(--defaultPrimaryFont);
+}
+
+/* Consistent vertical spacing for paragraph and heading text */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Responsive images */
+embed,
+img,
+object,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Container for content width */
+.container {
+  max-width: 1410px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+@media (min-width: 1280px) {
+  .container {
+    width: 85%;
+  }
+}
+
+/* Global Heading styles */
+.title {
+  font-size: 3.9rem;
+  text-align: right;
+}
+
+.subtitle {
+  color: var(--theme-blue);
+  font-size: 2rem;
+  font-weight: 300;
+  text-align: right;
+}
+
+/* Global text formatting */
+.bump-down {
+  margin-top: 5rem;
+}
