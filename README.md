@@ -18,6 +18,6 @@ All art is copyright Don Eddy Jr.
 
 ** Copyright © Don Eddy Jr 2020 ** 
 
-## Please Visit the site here
+### Please Visit the site here
 
-# https://doneddy.dev
+### https://doneddy.dev
